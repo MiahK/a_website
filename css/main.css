@@ -2,3 +2,7 @@ body{
     background-color: rgb(202, 174, 137);
     font-family: Arial;
 }
+img{
+    width: 200px;
+    height: 200px; 
+}
