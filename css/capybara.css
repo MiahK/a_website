@@ -24,4 +24,14 @@ a{
     color: brown;
     background-color: peru;
     padding: 15px ;
-} 
+}
+.btn{
+    position:absolute; 
+    top:0; 
+    right:0;
+}
+.invert{
+    background-color: black;
+    color: rgb(202, 174, 137); 
+}
+
