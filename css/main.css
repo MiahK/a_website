@@ -1,6 +1,7 @@
 body{
     background-color: rgb(202, 174, 137);
     font-family: Arial;
+    text-align: center;
 }
 img{
     width: 200px;
@@ -13,4 +14,11 @@ table{
 td{
     padding : 5px;
     border: 1px solid; 
+}
+a{
+    font-weight: bolder;
+    color:brown;
+    background-color: peru;
+    padding: 15px;
+    display: inline-block;
 }
