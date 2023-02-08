@@ -18,3 +18,10 @@ td{
 .left{
     text-align: left;
 }
+a{
+    font-weight: bolder;
+    display: inline-block;
+    color: brown;
+    background-color: peru;
+    padding: 15px ;
+} 
